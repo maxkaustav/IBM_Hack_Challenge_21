@@ -11,4 +11,4 @@ In this project we will be developing a dashboard which will help ott platforms 
 ## Dashboard
 ![Dashboard](src/application/Dashboard.png)
 
-### **Video Link :** 
+### **Video Link :** ![Link](https://youtu.be/fC7lPJHugYg)
